@@ -1,1 +1,1 @@
-Hello world!
+ `GridNote 方格注记` 笔记软件的备份安装包可以在 发布列表下载
